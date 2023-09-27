@@ -21,14 +21,5 @@
   },
   "engines": {
     "node": ">=14 <18.17.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EilonV/bdayz-back.git"
-  },
-  "bugs": {
-    "url": "https://github.com/EilonV/bdayz-back/issues"
-  },
-  "homepage": "https://github.com/EilonV/bdayz-back/api/v1/users"
+  }
 }
